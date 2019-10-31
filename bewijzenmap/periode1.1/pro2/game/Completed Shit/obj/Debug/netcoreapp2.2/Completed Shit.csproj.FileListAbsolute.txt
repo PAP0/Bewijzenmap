@@ -1,0 +1,11 @@
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.1\pro2\Blok1\Completed Shit\bin\Debug\netcoreapp2.2\Completed Shit.deps.json
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.1\pro2\Blok1\Completed Shit\bin\Debug\netcoreapp2.2\Completed Shit.runtimeconfig.json
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.1\pro2\Blok1\Completed Shit\bin\Debug\netcoreapp2.2\Completed Shit.runtimeconfig.dev.json
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.1\pro2\Blok1\Completed Shit\bin\Debug\netcoreapp2.2\Completed Shit.dll
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.1\pro2\Blok1\Completed Shit\bin\Debug\netcoreapp2.2\Completed Shit.pdb
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.1\pro2\Blok1\Completed Shit\obj\Debug\netcoreapp2.2\Completed Shit.csprojAssemblyReference.cache
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.1\pro2\Blok1\Completed Shit\obj\Debug\netcoreapp2.2\Completed Shit.csproj.CoreCompileInputs.cache
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.1\pro2\Blok1\Completed Shit\obj\Debug\netcoreapp2.2\Completed Shit.AssemblyInfoInputs.cache
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.1\pro2\Blok1\Completed Shit\obj\Debug\netcoreapp2.2\Completed Shit.AssemblyInfo.cs
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.1\pro2\Blok1\Completed Shit\obj\Debug\netcoreapp2.2\Completed Shit.dll
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.1\pro2\Blok1\Completed Shit\obj\Debug\netcoreapp2.2\Completed Shit.pdb

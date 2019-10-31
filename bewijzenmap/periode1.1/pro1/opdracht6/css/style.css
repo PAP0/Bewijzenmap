@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa&display=swap');
+
+body {
+   font-family: sans-serif;
+   margin: 0;
+   padding: 0;
+   font-family: "Courier New", Courier, monospace;
+   background-color: rgb(51, 51, 51);
+}
+
+nav {
+   background: #333;
+}
+nav ul {
+   list-style-type: none;
+   padding: 0;
+   margin: 0;
+}
+nav a {
+   color: rgb(255, 74, 74);
+   text-decoration: none;
+   background-color: rgb(0, 0, 0);
+   font-weight: 700;
+   border-bottom: 5px solid transparent;
+}
+nav a:hover {
+   color: #000;
+   background: #ccc;
+}
+nav .active {
+   border-bottom: 5px solid rgb(255, 0, 0);
+}
+
+section.active {
+   background:rgb(255, 0, 0);
+}
+h1, nav {
+   font-family: Impact, Charcoal, sans-serif
+}
+footer {
+   background: rgb(0, 0, 0);
+}
+
+header, main, footer {
+   padding: 0.5rem 2.5rem;
+}

@@ -1,0 +1,42 @@
+viewport:
+
+aanzicht veranderen: space en hou muis boven de viewport die je wil zien.(space toggelend is max/minimaliseren)
+
+zoom=scrollen/mouse2 and alt
+rotate=mouse1 and alt
+panning=mouse3 and alt
+
+focus=f (kan ook op components)
+
+aanmaken model:
+
+polygon tab -> klik op primitive knop
+
+manipulate:
+
+q=select
+w=translate
+e=rotate
+r=scale
+
+components:
+
+select components= mouse2 (hold) op object (selectmode)
+
+tools;
+
+extrude-> knopje met oranje blok of ctrl+e
+
+bridge-> knop naast extrude
+
+cut tool-> klik buiten model door model heen en eindig buiten model
+
+material:
+
+right click assign new material blinn
+
+6= textured
+5= shaded
+4= wirefram
+7= light mode
+

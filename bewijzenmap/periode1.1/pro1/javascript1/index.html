@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>YEET BUTTON</title>
+    </head>
+    <body>
+        <h1>Javascript stuff</h1>
+        <input type="button" value="CLICK THIS SHIT" id="mybutton"/>
+        <input type="button" value="CLICK THIS SHIZ" id="mybutton2"/>
+        <script>
+            let mybutton = document.getElementById('mybutton');
+            mybutton.addEventListener('click', ()=>{    
+            let time=new Date();
+            window.alert(time);               
+            mybutton.value = "YOU JUST CLICKED ME";
+            document.title = "Tf you doing homie?";            
+            })
+        </script>
+        <script>
+            let mybutton2 = document.getElementById('mybutton2');
+            mybutton2.addEventListener('click', ()=>{
+                let time=new Date();
+                window.alert(time);
+                mybutton2.value = "AND NOW YOU CLICKED ME!";
+                document.title = "You did it again cuh";
+            })
+        </script>
+    </body>
+</html>

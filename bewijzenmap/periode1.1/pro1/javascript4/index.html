@@ -1,0 +1,121 @@
+﻿<!DOCTYPE html>
+<html lang="nl">
+    <head>
+        <title>Studiepunten Calculator</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="Studiepunten Calculator">
+        <meta name="keywords" content="calculator, school, punten, studiepunten">
+        <meta name="author" content="Patryk Podworny">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <table>
+            <!-- Tabel Kop -->
+            <thead>
+                <tr>
+                    <th>Cluster</th>
+                    <th>Studiepunten<br>haalbaar</th>
+                    <th>Vak</th>
+                    <th>Cijfer</th>
+                    <th>Cluster<br>Gemiddelde</th>
+                    <th>Studiepunten<br>Behaald</th>
+                </tr>
+            </thead>
+            <!-- Cluster 1 -->
+            <tbody>
+                <tr>
+                    <td rowspan="2">Cluster 1</td>
+                    <td rowspan="2"><span id="studiepuntenHaalbaarCluster1">3</span></td>
+                    <td>PROJ</td>
+                    <td><input type="text" id="PROJ" placeholder="eindcijfer"></td>
+                    <td rowspan="2" id="gemiddeldeCluster1">Gemiddelde</td>
+                    <td rowspan="2" id="studiepuntenBehaaldCluster1">Studiepunten</td>
+                </tr>
+                <tr>
+                    <td>TPR</td>
+                    <td><input type="text" id="TPR" placeholder="eindcijfer"></td>
+                </tr>
+            </tbody>
+            <tbody>
+                <!-- Cluster 2 -->
+            <tbody>
+                <tr>
+                    <td rowspan="2">Cluster 2</td>
+                    <td rowspan="2"><span id="studiepuntenHaalbaarCluster2">5</span></td>
+                    <td>PRO 1</td>
+                    <td><input type="text" id="PRO1" placeholder="eindcijfer"></td>
+                    <td rowspan="2" id="gemiddeldeCluster2">Gemiddelde</td>
+                    <td rowspan="2" id="studiepuntenBehaaldCluster2">Studiepunten</td>
+                </tr>
+                <tr>
+                    <td>PRO 2</td>
+                    <td><input type="text" id="PRO2" placeholder="eindcijfer"></td>
+                </tr>
+            </tbody>
+            <tbody>
+                <!-- Cluster 3 -->
+            <tbody>
+                <tr>
+                    <td rowspan="2">Cluster 3</td>
+                    <td rowspan="2"><span id="studiepuntenHaalbaarCluster3">2</span></td>
+                    <td>SLB</td>
+                    <td><input type="text" id="SLB" placeholder="eindcijfer"></td>
+                    <td rowspan="2" id="gemiddeldeCluster3">Gemiddelde</td>
+                    <td rowspan="2" id="studiepuntenBehaaldCluster3">Studiepunten</td>
+                </tr>
+                <tr>
+                    <td>WVO</td>
+                    <td><input type="text" id="WVO" placeholder="eindcijfer"></td>
+                </tr>
+            </tbody>
+            <tbody>
+                <!-- Cluster 4 -->
+            <tbody>
+                <tr>
+                    <td rowspan="3">Cluster 4</td>
+                    <td rowspan="3"><span id="studiepuntenHaalbaarCluster4">3</span></td>
+                    <td>ENG</td>
+                    <td><input type="text" id="ENG" placeholder="eindcijfer"></td>
+                    <td rowspan="3" id="gemiddeldeCluster4">Gemiddelde</td>
+                    <td rowspan="3" id="studiepuntenBehaaldCluster4">Studiepunten</td>
+                </tr>
+                <tr>
+                    <td>NED</td>
+                    <td><input type="text" id="NED" placeholder="eindcijfer"></td>
+                </tr>
+                <tr>
+                    <td>REK</td>
+                    <td><input type="text" id="REK" placeholder="eindcijfer"></td>
+                </tr>
+            </tbody>
+            <tbody>
+                <!-- Cluster 5 -->
+            <tbody>
+                <tr>
+                    <td rowspan="1">Cluster 5</td>
+                    <td rowspan="1"><span id="studiepuntenHaalbaarCluster5">2</span></td>
+                    <td>DIFF</td>
+                    <td><input type="text" id="DIFF" placeholder="eindcijfer"></td>
+                    <td rowspan="1" id="gemiddeldeCluster5">Gemiddelde</td>
+                    <td rowspan="1" id="studiepuntenBehaaldCluster5">Studiepunten</td>
+                </tr>   
+            </tbody>
+            <tbody>
+            <tfoot>
+                <tr>
+                    <td>
+                        <a href="http://validator.w3.org/check?uri=referer" target="_blank">
+                            <img src="https://blanken5.home.xs4all.nl/afb/valid-html5-blue.png" alt="Valide HTML5"></a>
+                    </td>
+                    <td>
+                        <a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank">
+                            <img src="http://jigsaw.w3.org/css-validator/images/vcss-blue.gif" alt="Valide CSS"></a>
+                    </td>
+                    <td colspan="3">Totaal aantal Sudiepunten</td>
+                    <td id="totaalSP">Totaal</td>
+                </tr>
+            </tfoot>
+        </table>
+            <script src="script.js"></script>
+    </body>
+</html>

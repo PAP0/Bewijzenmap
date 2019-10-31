@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <meta charset="UTF-8">
+        
+        <title>Tijd in Javascript</title>
+        <style>
+            .center {
+                margin: auto;
+                width: 40%;
+                border: 3px solid red;
+                padding: 10px;
+                font-family: monospace;
+                font-size: 2.5em;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="center">
+            <h4>Tijd met Javascript laten zien</h4>
+            <h6>Patryk Podworny MG1D</h6>
+            <input type="button" value="klik op mij!" id="myButton"/>
+            <input type="button" value="klik ook nog op mij!" id="myButton2"/>
+            <ul>
+                <li>
+                    Jaar: <span id="jaar"> -------- </span>
+                </li>
+                <li>
+                    Maand: <span id="maand"> --------</span>
+                </li>
+                <li>
+                    Dag: <span id="dag"> --------</span>
+                </li>
+                <li>
+                    Uur: <span id="uur"> --------</span>
+                </li>
+                <li>
+                    Minuten: <span id="minuten"> --------</span>
+                </li>
+                <li>
+                    Seconden: <span id="seconden"> --------</span>
+                </li>
+            </ul>
+        </div>
+        <script>
+            let myButton = document.getElementById('myButton');
+            let myButton2 = document.getElementById('myButton2');
+            let jaar = document.getElementById('jaar');
+            let maand = document.getElementById('maand');
+            let dag = document.getElementById('dag');
+            let uur = document.getElementById('uur');
+            let minuten = document.getElementById('minuten');
+            let seconden = document.getElementById('seconden');
+            let datum = new Date();
+
+            myButton.addEventListener('click', ()=>{
+                jaar.innerHTML = datum.getFullYear(); 
+                maand.innerHTML = datum.getMonth()+ 1;
+                dag.innerHTML = datum.getDay();
+                uur.innerHTML = datum.getHours();
+                minuten.innerHTML = datum.getMinutes();
+                seconden.innerHTML = datum.getSeconds();
+            })
+            myButton2.addEventListener('click', ()=>{
+                let greeting = "Hoe laat is het?";
+                if (datum.getHours() >= 7) {greeting = "Goedemorgen"}
+                if (datum.getHours() >= 12) {greeting = "Goedemorgen"}
+                if (datum.getHours() >= 17) {greeting = "Goedemorgen"}
+                if (datum.getHours() >= 22) {greeting = "Goedemorgen"}
+                window.alert(greeting);})
+
+        </script>
+    </body>
+</html>

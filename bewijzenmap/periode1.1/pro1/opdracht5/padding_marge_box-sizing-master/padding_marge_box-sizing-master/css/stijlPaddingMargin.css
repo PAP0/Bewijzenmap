@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+  background-color: #ccc;
+}
+section {
+  background-color: #39C;
+  padding: 2em;
+  margin: .5em;
+  width: 30%;   /* misschien kun je ook wel eens met 40% werken  */
+  float: left;
+}
+
+/* hier verschillende regels een voor een de comment uitzetten en weer instellen  */
+.variant {
+  padding: 3em;
+  /*margin: 3em;*/
+  /*padding: 0 3em;*/
+  /*padding: 3em 0;*/
+  /*padding: 0 1em 3em;*/
+  /*box-sizing: border-box;*/
+}

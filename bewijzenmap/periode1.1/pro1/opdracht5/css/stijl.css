@@ -1,0 +1,91 @@
+
+body {
+  font-family: "Arial Black", Gadget, sans-serif;;
+  background-color: gray;
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  background-color: darkslategray;
+  background-image: ('../img/grid.png');
+  overflow: auto;
+  margin: 0 auto;
+  width: 100%;
+}
+header {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  clear: left;
+  padding: 20px 70px
+}
+
+
+h1 {
+  margin-top: 0;
+  padding-top: 20px;
+}
+
+.auteur {
+  float: right;
+  text-align: right;
+}
+header a {
+  color: rgb(0, 0, 0);
+}
+header a:hover {
+  text-decoration: none;
+  color: #aaa;
+}
+main {
+  padding: 20px;
+}
+section {
+  background-color: red;
+  box-sizing: border-box;
+  padding: 30px;
+  padding-bottom: 2em;
+  margin: 20px;
+  width: 360px;
+  float: left;
+  border-radius: 30px;
+}
+.weinig {
+  width: 360px;
+}
+
+#Lizzo {
+  padding-bottom: 265px;
+}
+
+#Taylor {
+  padding-bottom: 245px;
+}
+
+h3 {
+  margin: 0;
+  padding-top: 5px;
+  padding-bottom: 20px;
+  font-size: 25px;
+  line-height: 21px;
+}
+
+p {
+  margin: 0;
+  font-size: 16px;
+  line-height: 21px;
+}
+
+footer {
+  clear: left;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  padding: 20px 70px;
+}
+
+#validatie img {
+    height: 1em;
+    width: auto;
+    border: 0;
+    margin: 0 .3em;
+}

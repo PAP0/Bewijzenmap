@@ -1,0 +1,69 @@
+body {
+  font-family: "Arial Black", Gadget, sans-serif;;
+  background-color: #595959;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #262626;
+  color: #fff;
+  border: 2px solid red;
+  padding: 30px;
+}
+
+.logo {
+  align-content: center;
+  float: left;
+  margin-left: 1em;
+  margin-top: -30px;
+}
+
+.topnav {
+  overflow: auto;
+  background-color: #262626;
+}
+
+.topnav a {
+  float: left;
+  color: #ff6666;
+  text-align: center;
+  padding: 25px 50px;
+  text-decoration: none;
+  font-size: 17px;
+  margin-left: 40px;
+}
+
+
+.topnav a:hover {
+  background-color: #404040;
+  color: #ff3333;
+}
+
+.topnav a.active {
+  background-color: #4d4d4d;
+  color: white;
+}
+
+.bodytext {
+  padding-left: 1em;
+}
+
+footer {
+  background-color: #262626;
+  color: white;
+  padding: 8px;
+  border: 2px solid red;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  position: absolute;
+  text-align: center;
+}
+
+#validatie img {
+    height: 1em;
+    width: auto;
+    border: 0;
+    margin: 0 .3em;
+}

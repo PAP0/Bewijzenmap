@@ -1,0 +1,3 @@
+git add -A
+Commit = git commit -m (file name)
+Push = git push

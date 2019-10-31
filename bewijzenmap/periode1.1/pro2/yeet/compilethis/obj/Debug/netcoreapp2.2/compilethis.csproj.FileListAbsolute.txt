@@ -1,0 +1,11 @@
+C:\Users\patry\Desktop\yeet\compilethis\bin\Debug\netcoreapp2.2\compilethis.deps.json
+C:\Users\patry\Desktop\yeet\compilethis\bin\Debug\netcoreapp2.2\compilethis.runtimeconfig.json
+C:\Users\patry\Desktop\yeet\compilethis\bin\Debug\netcoreapp2.2\compilethis.runtimeconfig.dev.json
+C:\Users\patry\Desktop\yeet\compilethis\bin\Debug\netcoreapp2.2\compilethis.dll
+C:\Users\patry\Desktop\yeet\compilethis\bin\Debug\netcoreapp2.2\compilethis.pdb
+C:\Users\patry\Desktop\yeet\compilethis\obj\Debug\netcoreapp2.2\compilethis.csprojAssemblyReference.cache
+C:\Users\patry\Desktop\yeet\compilethis\obj\Debug\netcoreapp2.2\compilethis.csproj.CoreCompileInputs.cache
+C:\Users\patry\Desktop\yeet\compilethis\obj\Debug\netcoreapp2.2\compilethis.AssemblyInfoInputs.cache
+C:\Users\patry\Desktop\yeet\compilethis\obj\Debug\netcoreapp2.2\compilethis.AssemblyInfo.cs
+C:\Users\patry\Desktop\yeet\compilethis\obj\Debug\netcoreapp2.2\compilethis.dll
+C:\Users\patry\Desktop\yeet\compilethis\obj\Debug\netcoreapp2.2\compilethis.pdb

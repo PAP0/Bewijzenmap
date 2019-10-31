@@ -1,0 +1,23 @@
+
+table {
+  width: 80%;
+  margin: auto;
+}
+table, th, td {
+    border: 1px dotted gray;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+
+th {
+   font-family: "Lucida Console", Monaco, monospace;
+   font-size: 1em;
+   background-color: silver;
+}
+td {
+   font-family: "Courier New", Courier, monospace;
+   font-size: 1em;
+}

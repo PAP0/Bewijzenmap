@@ -1,0 +1,11 @@
+C:\Users\patry\Desktop\yeet\wirwar\obj\Debug\netcoreapp2.2\wirwar.csprojAssemblyReference.cache
+C:\Users\patry\Desktop\yeet\wirwar\obj\Debug\netcoreapp2.2\wirwar.csproj.CoreCompileInputs.cache
+C:\Users\patry\Desktop\yeet\wirwar\obj\Debug\netcoreapp2.2\wirwar.AssemblyInfoInputs.cache
+C:\Users\patry\Desktop\yeet\wirwar\obj\Debug\netcoreapp2.2\wirwar.AssemblyInfo.cs
+C:\Users\patry\Desktop\yeet\wirwar\bin\Debug\netcoreapp2.2\wirwar.deps.json
+C:\Users\patry\Desktop\yeet\wirwar\bin\Debug\netcoreapp2.2\wirwar.runtimeconfig.json
+C:\Users\patry\Desktop\yeet\wirwar\bin\Debug\netcoreapp2.2\wirwar.runtimeconfig.dev.json
+C:\Users\patry\Desktop\yeet\wirwar\bin\Debug\netcoreapp2.2\wirwar.dll
+C:\Users\patry\Desktop\yeet\wirwar\bin\Debug\netcoreapp2.2\wirwar.pdb
+C:\Users\patry\Desktop\yeet\wirwar\obj\Debug\netcoreapp2.2\wirwar.dll
+C:\Users\patry\Desktop\yeet\wirwar\obj\Debug\netcoreapp2.2\wirwar.pdb

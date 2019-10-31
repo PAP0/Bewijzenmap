@@ -1,0 +1,11 @@
+C:\Users\patry\Desktop\yeet\whatsmyname\bin\Debug\netcoreapp2.2\whatsmyname.deps.json
+C:\Users\patry\Desktop\yeet\whatsmyname\bin\Debug\netcoreapp2.2\whatsmyname.runtimeconfig.json
+C:\Users\patry\Desktop\yeet\whatsmyname\bin\Debug\netcoreapp2.2\whatsmyname.runtimeconfig.dev.json
+C:\Users\patry\Desktop\yeet\whatsmyname\bin\Debug\netcoreapp2.2\whatsmyname.dll
+C:\Users\patry\Desktop\yeet\whatsmyname\bin\Debug\netcoreapp2.2\whatsmyname.pdb
+C:\Users\patry\Desktop\yeet\whatsmyname\obj\Debug\netcoreapp2.2\whatsmyname.csprojAssemblyReference.cache
+C:\Users\patry\Desktop\yeet\whatsmyname\obj\Debug\netcoreapp2.2\whatsmyname.csproj.CoreCompileInputs.cache
+C:\Users\patry\Desktop\yeet\whatsmyname\obj\Debug\netcoreapp2.2\whatsmyname.AssemblyInfoInputs.cache
+C:\Users\patry\Desktop\yeet\whatsmyname\obj\Debug\netcoreapp2.2\whatsmyname.AssemblyInfo.cs
+C:\Users\patry\Desktop\yeet\whatsmyname\obj\Debug\netcoreapp2.2\whatsmyname.dll
+C:\Users\patry\Desktop\yeet\whatsmyname\obj\Debug\netcoreapp2.2\whatsmyname.pdb
