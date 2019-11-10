@@ -1,0 +1,263 @@
+body {
+  font-family: "Arial Black", Gadget, sans-serif;;
+  background-color: #595959;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #262626;
+  color: #fff;
+  border: 2px solid red;
+  padding: 30px;
+}
+
+.logo {
+  align-content: center;
+  float: left;
+  margin-left: 1em;
+  margin-top: -30px;
+}
+
+.topnav {
+  overflow: auto;
+  background-color: #262626;
+}
+
+.topnav a {
+  float: left;
+  color: #ff6666;
+  text-align: center;
+  padding: 25px 50px;
+  text-decoration: none;
+  font-size: 17px;
+  margin-left: 40px;
+}
+
+
+.topnav a:hover {
+  background-color: #404040;
+  color: #ff3333;
+}
+
+.topnav a.active {
+  background-color: #4d4d4d;
+  color: white;
+}
+
+.titlebox {
+  text-align: center;
+  font-size: 40px;
+  background-color: #404040;
+  padding-top: 0.5px;
+  padding-bottom: 0.5px;
+}
+
+/* HOME */
+.homecontent {
+  background-color: #262626;
+  border-radius: 30px;
+  margin: auto;
+  width: 50%;
+  height: 30em;
+  box-sizing: border-box;
+}
+
+.bodytexthome {
+  margin: auto;
+  color: #737373;
+  margin-left: 2em;
+  font-size:22px;
+  margin: 30px 60px;
+}
+
+/* WHO AM I? */
+.whoamicontent {
+  background-color: #262626;
+  border-radius: 30px;
+  margin: auto;
+  width: 50%;
+  height: 30em;
+  box-sizing: border-box;
+}
+
+.bodytextwhoami {
+  margin: auto;
+  color: #737373;
+  margin-left: 2em;
+  font-size:25px;
+  margin: 0px 60px;
+}
+
+/* DAY IN THE LIFE */
+.dayinthelifecontent {
+  background-color: #262626;
+  border-radius: 30px;
+  margin: auto;
+  width: 50%;
+  height: 30em;
+  box-sizing: border-box;
+}
+
+.bodytextdayinthelife {
+  margin: auto;
+  color: #737373;
+  margin-left: 2em;
+  font-size:25px;
+  margin: 0px 60px;
+}
+
+/* PROJECTS */
+.projectscontent {
+  background-color: #262626;
+  border-radius: 30px;
+  margin: auto;
+  width: 50%;
+  height: 30em;
+  box-sizing: border-box;
+}
+
+.bodytextprojects {
+  margin: auto;
+  color: #737373;
+  margin-left: 2em;
+  font-size:25px;
+}
+
+/* SCHOOL PROJECTS */
+.schoolworkcontent {
+  background-color: #262626;
+  border-radius: 30px;
+  margin: auto;
+  width: 50%;
+  height: 30em;
+  box-sizing: border-box;
+}
+
+.bodytextschoolwork {
+  margin: auto;
+  color: #737373;
+  margin-left: 2em;
+  font-size:25px;
+}
+
+.githublogo {
+  display: block;
+  margin-left: 13.5em;
+  margin-right: 3em;
+  margin-top: -1em;
+}
+
+/* SOCIAL MEDIA */
+.socialscontent {
+  background-color: #262626;
+  border-radius: 30px;
+  margin: auto;
+  width: 60%;
+  height: 32em;
+  box-sizing: border-box;
+}
+
+/* SOCIAL MEDIA BUTTONS */
+.socialsbodytext {
+  margin: auto;
+  color: #737373;
+  margin-left: 2em;
+  font-size: 60px;
+}
+
+.fa:hover {
+    opacity: 0.;
+}
+
+.fa {
+  padding: 60px;
+  font-size: 30px;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+  margin: 37px 20px;
+  border-radius: 30%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #1DA1F2;
+  color: white;
+}
+
+.fa-youtube {
+  background: #FF0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #405DE6;
+  color: white;
+}
+
+.fa-snapchat-ghost {
+  background: #FFFC00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black,
+   1px 0 black, 0 -1px black;
+}
+
+.fa-twitch {
+  background: #6441a5;
+  color: white;
+}
+
+.fa-reddit {
+  background: #ff4500;
+  color: white;
+}
+
+.fa-spotify {
+  background: #1DB954;
+  color: white;
+  
+}
+
+/* CONTACT */
+.contactcontent {
+  background-color: #262626;
+  border-radius: 30px;
+  margin: auto;
+  width: 20%;
+  height: 25em;
+  box-sizing: border-box;
+}
+
+.bodytextcontact {
+  margin: auto;
+  color: #737373;
+  margin-left: 2em;
+  font-size: 20px;
+}
+
+footer {
+  background-color: #262626;
+  color: white;
+  padding: 8px;
+  border: 2px solid red;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  position: absolute;
+  text-align: center;
+}
+
+#validatie img {
+    height: 1em;
+    width: auto;
+    margin: 0 .3em;
+}

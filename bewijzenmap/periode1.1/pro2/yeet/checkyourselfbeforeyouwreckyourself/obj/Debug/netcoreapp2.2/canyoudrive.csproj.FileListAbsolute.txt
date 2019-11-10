@@ -1,0 +1,11 @@
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.1\pro2\yeet\canyoudrive\obj\Debug\netcoreapp2.2\canyoudrive.csprojAssemblyReference.cache
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.1\pro2\yeet\canyoudrive\obj\Debug\netcoreapp2.2\canyoudrive.csproj.CoreCompileInputs.cache
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.1\pro2\yeet\canyoudrive\obj\Debug\netcoreapp2.2\canyoudrive.AssemblyInfoInputs.cache
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.1\pro2\yeet\canyoudrive\obj\Debug\netcoreapp2.2\canyoudrive.AssemblyInfo.cs
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.1\pro2\yeet\canyoudrive\bin\Debug\netcoreapp2.2\canyoudrive.deps.json
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.1\pro2\yeet\canyoudrive\bin\Debug\netcoreapp2.2\canyoudrive.runtimeconfig.json
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.1\pro2\yeet\canyoudrive\bin\Debug\netcoreapp2.2\canyoudrive.runtimeconfig.dev.json
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.1\pro2\yeet\canyoudrive\bin\Debug\netcoreapp2.2\canyoudrive.dll
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.1\pro2\yeet\canyoudrive\bin\Debug\netcoreapp2.2\canyoudrive.pdb
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.1\pro2\yeet\canyoudrive\obj\Debug\netcoreapp2.2\canyoudrive.dll
+D:\Users\PAP0\Documents\Ma\bewijzenmap\periode1.1\pro2\yeet\canyoudrive\obj\Debug\netcoreapp2.2\canyoudrive.pdb
